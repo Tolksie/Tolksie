@@ -42,7 +42,7 @@ er" alt="mysql" width="50" src="https://github.com/Tolksie/Tolksie/assets/110430
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=tolksie&theme=github-compact"/>
 <img alt="Stats" align="left" width="33%" src="https://github-readme-stats.vercel.app/api?username=tolksie&show_icons=true&theme=merko"/>
 <img alt="Top Languages" align="left" width="33%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tolksie&theme=merko"/>
-<img align="left" width="28%" src="https://streak-stats.demolab.com/?user=Tolksie"/>
+<img align="left" width="24%" src="https://streak-stats.demolab.com/?user=Tolksie"/>
 <img src="https://github-profile-trophy.vercel.app/?username=Tolksie&theme=matrix">
 <br></br>
 <span>Obrigado por ver meu perfil! Sinta-se a vontade para dar uma olhada nos meus projetos! 😊✨</span>
