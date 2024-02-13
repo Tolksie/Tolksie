@@ -1,4 +1,4 @@
-<h1 align="center">💻 𝐵𝑒𝓂 𝓋𝒾𝓃𝒹𝑜 𝒶𝑜 𝓂𝑒𝓊 𝓅𝑒𝓇𝒻𝒾𝓁 | 𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝓉𝑜 𝓂𝓎 𝓅𝓇𝑜𝒻𝒾𝓁𝑒 🖱</h1>
+<h1 align="center">💻 Bem vindo ao meu perfil | Welcome to my profile 🖱</h1>
 <div align="center">
 
 
