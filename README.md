@@ -4,7 +4,7 @@
 
 <p align="left">🇧🇷: Olá! Sou Gabriel Madalena dos Santos, um programador apaixonado de 19 anos e estudante de Engenharia de Software na Universidade da Região de Joinville (FURJ). O meu objetivo é desenvolver soluções tecnológicas que possam impactar positivamente a sociedade e o meio ambiente. </p>
 <p align="left">🇺🇸: Hi! I'm Gabriel Madalena dos Santos, a 19-year-old passionate programmer and Software Engineering student at the University of the Joinville Region (FURJ). My goal is to develop technological solutions that can positively impact society and the environment. </p>
-<img src="https://github.com/Tolksie/Tolksie/assets/110430707/92652822-de0d-4ea2-8650-8606f26e3796"/>
+<a href=""><img src="https://github.com/Tolksie/Tolksie/assets/110430707/92652822-de0d-4ea2-8650-8606f26e3796"/></a>
 <div> 
   <a href="https://www.instagram.com/gabriel_madala/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-madalena-dos-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
